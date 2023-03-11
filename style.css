@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin left: 50px;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: x-large;
+    50v
+}
+nav{
+    width: 60%;
+    margin-top: 10px;
+}
+h1{
+    width: 20%;
+}
+.bigimage{
+    width: 70vw;
+    text-align: center;
+    margin-left: 15rem;
+}
+.container{
+    width:10vw ;
+    display: flex;
+}
+.containe>div{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color:blue;
+}
